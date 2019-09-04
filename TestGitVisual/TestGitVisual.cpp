@@ -6,6 +6,6 @@
 
 int main()
 {
-	printf("sur la branche 3 : la version 3.1  évolue. version 3.2");
+	printf("sur la branche 3 : enfin la version 3.3 que l'on garde");
 	return 0;
 }
