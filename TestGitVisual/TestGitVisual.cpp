@@ -6,6 +6,6 @@
 
 int main()
 {
-	printf("version 1 puis version 2");
+	printf("version 3");
 	return 0;
 }
